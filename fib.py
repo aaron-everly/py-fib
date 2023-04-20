@@ -1,9 +1,9 @@
 print("Enter a number: ")
 n = input()
-print("") # spacing
+print("") 
 print("sequence or number? (s/n): ")
 c = input()
-print("") # spacing
+print("") 
 
 
 def fib(n):
